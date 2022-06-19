@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22eddcd0.css",
+    "main.js": "/static/js/main.94648777.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/kqg.png": "/static/media/kqg.96c8c00621b80b3d0321.png",
+    "static/media/ssc.png": "/static/media/ssc.4b1f25469af9ac6aee0b.png",
+    "static/media/stb_premium.png": "/static/media/stb_premium.133ced5a2a2e7c448d3b.png",
+    "static/media/ss_school.png": "/static/media/ss_school.1718e57a60d34aa55a1d.png",
+    "static/media/bat.png": "/static/media/bat.5c3fd0dd36eaa57a2f89.png",
+    "static/media/stb_games.png": "/static/media/stb_games.372e2796463d2bd2b74e.png",
+    "static/media/vic.png": "/static/media/vic.f228eb9dd5d08f24d965.png",
+    "static/media/portfolio.png": "/static/media/portfolio.f5ab6cde922db201e360.png",
+    "static/media/ap.png": "/static/media/ap.7e8dbf7f44f85cad9f6c.png",
+    "static/media/writers_dashboard.png": "/static/media/writers_dashboard.cba9962f355a9cc1a1f8.png",
+    "static/media/wordpress.png": "/static/media/wordpress.44eb33ff3b178cf02110.png",
+    "static/media/logo.png": "/static/media/logo.9d3e47ce1e45ed520ab1.png",
+    "static/media/clock.png": "/static/media/clock.41b5936ced9b2ed4defa.png",
+    "static/media/todo_list_react.png": "/static/media/todo_list_react.50f12c28cb4a6b93e2c0.png",
+    "static/media/calculator.png": "/static/media/calculator.e60d0eb8c99196d87aae.png",
+    "static/media/Resume.pdf": "/static/media/Resume.2452dcd05fd378b446ac.pdf",
+    "static/media/dgmc.png": "/static/media/dgmc.4fc2ca432c7d7391dc6e.png",
+    "static/media/foundation.png": "/static/media/foundation.9490b3681db2314e9eb1.png",
+    "index.html": "/index.html",
+    "main.22eddcd0.css.map": "/static/css/main.22eddcd0.css.map",
+    "main.94648777.js.map": "/static/js/main.94648777.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22eddcd0.css",
+    "static/js/main.94648777.js"
+  ]
+}
